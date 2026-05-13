@@ -1,0 +1,121 @@
+﻿id;year;political_orientation;sentiment_per_speech;sentiment_per_context
+Protokolle_1897_04_05_01;1897;linksliberal;-0.141752632;-0.372866667
+Protokolle_1898_01_13_01;1898;sozialdemokratisch;-0.0571625;-0.146846154
+Protokolle_1898_01_19_01;1898;konservativ;-0.098873684;-0.3064
+Protokolle_1899_03_09_01;1899;konservativ;-0.105321739;-0.33322
+Protokolle_1899_03_09_02;1899;nationalliberal;-0.0962;0.004
+;1900;;0;0
+Protokolle_1901_02_21_01;1901;politischer Katholizismus;-0.033740909;0
+;1902;;0;0
+Protokolle_1903_01_21_01;1903;antisemitisch;0.19004;0.4983
+Protokolle_1904_06_11_01;1904;konservativ;0.2267;0
+Protokolle_1904_06_11_02;1904;politischer Katholizismus;0;0
+Protokolle_1904_06_11_03;1904;konservativ;-0.18075;0
+Protokolle_1905_03_30_01;1905;antisemitisch;-0.142768421;0
+Protokolle_1905_03_31_01;1905;sozialdemokratisch;-0.100372464;-0.075411558
+Protokolle_1905_03_31_02;1905;politischer Katholizismus;-0.071676276;-0.094593458
+Protokolle_1905_03_31_03;1905;konservativ;-0.088885185;0.004
+Protokolle_1905_03_31_04;1905;antisemitisch;-0.113559259;-0.12266
+Protokolle_1905_03_31_05;1905;linksliberal;-0.046035616;-0.0336
+Protokolle_1905_03_31_06;1905;sozialdemokratisch;-0.067544;-0.0566
+Protokolle_1905_03_31_07;1905;sozialdemokratisch;-0.075934351;-0.110983824
+Protokolle_1905_03_31_08;1905;politischer Katholizismus;-0.038108421;-0.063765
+Protokolle_1905_03_31_09;1905;konservativ;-0.019041176;0
+Protokolle_1905_03_31_10;1905;sozialdemokratisch;0.01275;0.019438462
+Protokolle_1905_03_31_11;1905;politischer Katholizismus;0.094166667;0.24675
+Protokolle_1905_05_12_01;1905;sozialdemokratisch;-0.028195652;-0.1512
+Protokolle_1906_03_03_01;1906;antisemitisch;-0.099138462;0.0711
+Protokolle_1907_03_02_01;1907;politischer Katholizismus;0.042657143;-0.02305
+Protokolle_1907_11_28_01;1907;k.A.;-0.106386207;-0.103105882
+Protokolle_1907_11_28_02;1907;konservativ;-0.044905882;-0.0492
+Protokolle_1907_11_28_03;1907;politischer Katholizismus;-0.068832727;-0.02206
+Protokolle_1907_11_28_04;1907;nationalliberal;-0.081298876;-0.151786667
+Protokolle_1907_11_28_05;1907;politischer Katholizismus;-0.050747619;-0.23356
+Protokolle_1907_11_29_01;1907;sozialdemokratisch;-0.015046508;-0.023752083
+Protokolle_1907_11_29_02;1907;k.A.;-0.07178156;-0.058029333
+Protokolle_1907_11_29_03;1907;k.A.;-0.017345946;-0.204291667
+Protokolle_1907_11_30_01;1907;linksliberal;-0.090986;-0.008825
+Protokolle_1907_11_30_02;1907;antisemitisch;-0.016116;-0.037093548
+Protokolle_1907_12_02_01;1907;linksliberal;-0.066148276;0.231333333
+Protokolle_1907_12_02_02;1907;antisemitisch;-0.048945455;0.05362
+Protokolle_1907_12_02_03;1907;sozialdemokratisch;-0.069284127;-0.028227027
+Protokolle_1907_12_03_01;1907;konservativ;0.0351;0.0646625
+Protokolle_1907_12_03_02;1907;linksliberal;-0.043362162;-0.0004
+Protokolle_1907_12_03_03;1907;nationalliberal;-0.009857895;0.00224
+Protokolle_1907_12_03_04;1907;antisemitisch;-0.151625;0.06032
+Protokolle_1907_12_03_05;1907;nationalliberal;-0.11341;-0.2153
+Protokolle_1907_12_03_06;1907;nationalliberal;-0.03255;-0.10565
+Protokolle_1907_12_04_01;1907;k.A.;0.011336232;0.052818182
+Protokolle_1907_12_11_01;1907;sozialdemokratisch;0.004998039;0.059675
+Protokolle_1908_01_23_01;1908;linksliberal;-0.13678;-0.34355
+Protokolle_1908_02_01_01;1908;konservativ;0.075;-0.0048
+Protokolle_1908_02_01_02;1908;politischer Katholizismus;0;0
+Protokolle_1908_02_01_03;1908;konservativ;0.0624875;0.081983333
+Protokolle_1908_02_01_04;1908;sozialdemokratisch;-0.090575;0
+Protokolle_1908_02_01_05;1908;linksliberal;-0.0048;0
+Protokolle_1908_02_03_01;1908;sozialdemokratisch;-0.0810525;-0.1361
+Protokolle_1908_02_05_01;1908;antisemitisch;0.01973;0.004
+Protokolle_1908_02_05_02;1908;linksliberal;-0.026761538;-0.06936
+Protokolle_1908_02_06_01;1908;konservativ;-0.090146154;0
+Protokolle_1908_02_06_02;1908;sozialdemokratisch;-0.1294;0.001066667
+Protokolle_1908_02_18_01;1908;konservativ;-0.037827848;-0.01024
+Protokolle_1908_02_18_02;1908;nationalliberal;0.056392857;0.115406667
+Protokolle_1908_02_19_01;1908;sozialdemokratisch;-0.13692;0.004
+Protokolle_1908_02_19_02;1908;linksliberal;-0.063037931;0.004
+Protokolle_1908_02_20_01;1908;antisemitisch;-0.073872;-0.168177778
+Protokolle_1908_02_20_02;1908;linksliberal;-0.040835714;-0.055142857
+Protokolle_1908_02_20_03;1908;antisemitisch;-0.1218;0.345
+Protokolle_1908_02_20_04;1908;konservativ;-0.081843478;0.086328571
+Protokolle_1908_02_20_05;1908;k.A.;-0.086027907;0.004
+Protokolle_1908_02_21_01;1908;linksliberal;-0.083378947;-0.051836364
+Protokolle_1908_02_21_02;1908;sozialdemokratisch;-0.081909524;0.091
+Protokolle_1908_02_25_01;1908;sozialdemokratisch;-0.042233333;-0.0004
+Protokolle_1908_03_17_01;1908;nationalliberal;0.00495;0.004
+Protokolle_1908_12_05_01;1908;sozialdemokratisch;-0.049807273;-0.04089375
+Protokolle_1908_12_11_01;1908;politischer Katholizismus;-0.048118367;-0.064768182
+Protokolle_1908_12_11_02;1908;k.A.;-0.047414286;0.004
+Protokolle_1908_12_11_03;1908;politischer Katholizismus;0.040006667;0.004
+Protokolle_1909_01_18_01;1909;politischer Katholizismus;0.030788095;-0.117686667
+Protokolle_1909_01_18_02;1909;k.A.;-0.003426667;-0.18095
+Protokolle_1909_01_18_03;1909;nationalliberal;0.11305;0.1776
+Protokolle_1909_01_18_04;1909;sozialdemokratisch;-0.093884096;-0.057470492
+Protokolle_1909_01_18_05;1909;linksliberal;0.045690909;0.0961
+Protokolle_1909_01_18_06;1909;politischer Katholizismus;0.018105556;0.02122
+Protokolle_1909_01_19_01;1909;linksliberal;-0.118716667;-0.218233333
+Protokolle_1909_01_19_02;1909;k.A.;-0.141638889;-0.22425
+Protokolle_1909_01_19_03;1909;antisemitisch;-0.240813636;-0.267058333
+Protokolle_1909_01_19_04;1909;linksliberal;-0.121483333;-0.23135
+Protokolle_1909_01_28_01;1909;linksliberal;-0.02345;-0.355
+Protokolle_1909_03_30_01;1909;sozialdemokratisch;0.03258125;0.004
+Protokolle_1909_03_30_02;1909;k.A.;0.079928571;0.043233333
+Protokolle_1909_03_30_03;1909;sozialdemokratisch;0.076033333;0.076033333
+Protokolle_1909_04_23_01;1909;politischer Katholizismus;-0.098730224;-0.0074125
+Protokolle_1909_04_23_02;1909;nationalliberal;-0.159109524;-0.131855556
+Protokolle_1909_04_23_03;1909;sozialdemokratisch;-0.055204;-0.094108333
+Protokolle_1909_04_24_01;1909;linksliberal;-0.180930769;-0.07565
+Protokolle_1910_01_15_01;1910;sozialdemokratisch;-0.048072222;-0.0003625
+Protokolle_1910_01_20_01;1910;politischer Katholizismus;0.072307143;0.091
+Protokolle_1910_01_31_01;1910;politischer Katholizismus;0.031825;-0.099466667
+Protokolle_1910_01_31_02;1910;linksliberal;-0.079133333;-0.5365
+Protokolle_1911_02_21_01;1911;politischer Katholizismus;-0.158961905;-0.0771
+Protokolle_1911_02_21_02;1911;k.A.;0.02661;0
+Protokolle_1911_02_21_03;1911;linksliberal;-0.017815625;-0.282
+Protokolle_1911_02_22_01;1911;antisemitisch;-0.172178947;-0.0551
+Protokolle_1911_02_22_02;1911;linksliberal;-0.119715385;-0.1556
+Protokolle_1911_02_22_03;1911;k.A.;-0.173901923;-0.2006
+Protokolle_1911_02_24_01;1911;linksliberal;-0.177253333;-0.408233333
+Protokolle_1911_02_28_01;1911;linksliberal;-0.1798;-0.3636
+Protokolle_1912_05_10_01;1912;sozialdemokratisch;-0.031306667;0.3507
+Protokolle_1912_05_18_01;1912;sozialdemokratisch;-0.00528;-0.0048
+Protokolle_1913_02_08_01;1913;sozialdemokratisch;0.038118182;0.004
+Protokolle_1913_02_08_02;1913;politischer Katholizismus;0.063131579;0.070355556
+Protokolle_1913_02_08_03;1913;k.A.;-0.063628571;0.004
+Protokolle_1913_02_11_01;1913;politischer Katholizismus;-0.104159091;-0.0048
+Protokolle_1913_02_13_01;1913;linksliberal;-0.122157143;-0.083809091
+Protokolle_1913_04_03_01;1913;sozialdemokratisch;-0.06295625;-0.10406
+Protokolle_1913_04_19_01;1913;k.A.;-0.4017;0
+Protokolle_1913_06_18_01;1913;konservativ;-0.049572727;-0.33505
+Protokolle_1914_01_30_01;1914;konservativ;-0.104457143;-0.2374
+Protokolle_1914_02_16_01;1914;politischer Katholizismus;-0.07815625;-0.05204
+Protokolle_1914_02_17_01;1914;sozialdemokratisch;0.004185714;-0.06255
+Protokolle_1914_05_14_01;1914;sozialdemokratisch;0.004;0
